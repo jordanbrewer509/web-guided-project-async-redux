@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Vickie", "last": "Watts" },
+      "location": {
+        "street": { "number": 42, "name": "Forest Ln" },
+        "city": "Brisbane",
+        "state": "Tasmania",
+        "country": "Australia",
+        "postcode": 3940,
+        "coordinates": { "latitude": "-82.5165", "longitude": "62.3261" },
+        "timezone": {
+          "offset": "+11:00",
+          "description": "Magadan, Solomon Islands, New Caledonia"
+        }
+      },
+      "email": "vickie.watts@example.com",
+      "login": {
+        "uuid": "ff1f042b-6be7-4dcb-8490-a88e65d85424",
+        "username": "beautifulostrich583",
+        "password": "models",
+        "salt": "T6B2WRss",
+        "md5": "3afad9b3ea55ae57bdb5d907dcdd5a64",
+        "sha1": "2c4433c575c2af727fe224cd19d7ec6518b8c8bc",
+        "sha256": "b745e8b52fdd21ce80c093cd3a4dea7e54875cf5551d932aa85610a3c4ad96f1"
+      },
+      "dob": { "date": "1974-07-03T20:12:07.519Z", "age": 48 },
+      "registered": { "date": "2021-01-16T11:55:00.420Z", "age": 2 },
+      "phone": "03-8533-1250",
+      "cell": "0459-666-982",
+      "id": { "name": "TFN", "value": "799566951" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/39.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "8da5a67548beb6ee",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
